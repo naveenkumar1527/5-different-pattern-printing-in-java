@@ -1,0 +1,1 @@
+# 5-different-pattern-printing-in-java
